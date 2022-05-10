@@ -1,6 +1,18 @@
 <html>
 
-<head></head>
+<head>
+<style>
+    label{
+
+        color:rgb(211, 11, 11)
+        }
+        body {
+            margin: 10px;
+        }
+
+</style>
+
+</head>
 
 <body>
 
@@ -24,7 +36,7 @@
 
         <p>
             <input type="submit" value="Cadastrar">
-            
+
             <a href="https://www.google.com" target="_blank">google</a>
 
         </p>
